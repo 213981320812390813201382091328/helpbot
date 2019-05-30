@@ -1,0 +1,2 @@
+# helpbot
+prefix:!
